@@ -1,4 +1,6 @@
 # Image-Compression-K-MEANs-
+---
+<img width="1259" height="1044" alt="spike" src="https://github.com/user-attachments/assets/f215e375-fbe9-44e0-b29c-5dfc448a1456" />
 
 This is my dog who passed away in 2020 and this is one of my favorite photo of her. I noticed the colorful (rich) the colors were and used it to build a quick K-means image compression.
 
